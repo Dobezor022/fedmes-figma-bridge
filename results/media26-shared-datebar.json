@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "media26-shared-datebar",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 498,
+  "completedAt": "2026-09-19T13:20:25.122Z",
+  "output": {
+    "id": "27:9967",
+    "name": "FedMes26/SharedMedia/DateBar",
+    "existed": false,
+    "variants": 4
+  }
+}
