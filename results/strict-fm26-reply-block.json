@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "strict-fm26-reply-block",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 288,
+  "completedAt": "2026-09-19T12:40:18.879Z",
+  "output": {
+    "id": "24:8207",
+    "name": "FedMes26/Message/ReplyBlock",
+    "existed": true,
+    "variants": 4
+  }
+}
