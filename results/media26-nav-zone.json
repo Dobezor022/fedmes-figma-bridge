@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "media26-nav-zone",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 496,
+  "completedAt": "2026-09-19T13:20:18.512Z",
+  "output": {
+    "id": "27:9861",
+    "name": "FedMes26/Media/NavZone",
+    "existed": false,
+    "variants": 4
+  }
+}
