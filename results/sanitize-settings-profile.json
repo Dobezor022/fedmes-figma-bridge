@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "sanitize-settings-profile",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 279,
+  "completedAt": "2026-09-19T12:39:18.686Z",
+  "output": {
+    "id": "24:1641",
+    "name": "Settings/ProfileHeader",
+    "existed": true,
+    "variants": 2
+  }
+}
