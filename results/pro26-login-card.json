@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "pro26-login-card",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 373,
+  "completedAt": "2026-09-19T12:52:46.818Z",
+  "output": {
+    "id": "26:5537",
+    "name": "FedMes26/Auth/LoginCard",
+    "existed": false,
+    "variants": 6
+  }
+}
