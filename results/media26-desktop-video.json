@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "media26-desktop-video",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 552,
+  "completedAt": "2026-09-19T13:26:56.543Z",
+  "output": {
+    "id": "27:11679",
+    "name": "FedMes26/Desktop/VideoPlayerPro",
+    "existed": false,
+    "variants": 12
+  }
+}
