@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "strict-fm26-voice-message",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 293,
+  "completedAt": "2026-09-19T12:41:09.553Z",
+  "output": {
+    "id": "24:8337",
+    "name": "FedMes26/Media/VoiceMessage",
+    "existed": true,
+    "variants": 4
+  }
+}
