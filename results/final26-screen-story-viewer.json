@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "final26-screen-story-viewer",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 666,
+  "completedAt": "2026-09-19T14:10:03.905Z",
+  "output": {
+    "id": "30:16014",
+    "name": "FedMes Remote / FedMes 2026 / Android / Story Viewer Pro",
+    "instances": 4
+  }
+}
