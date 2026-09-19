@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "layout-screen-95",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 131,
+  "completedAt": "2026-09-19T12:12:15.095Z",
+  "output": {
+    "id": "24:3945",
+    "name": "FedMes Remote / Windows / Login / Credentials",
+    "existed": true
+  }
+}
