@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "fm26-polish-conversation",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 342,
+  "completedAt": "2026-09-19T12:46:12.549Z",
+  "output": {
+    "id": "24:8566",
+    "name": "FedMes Remote / FedMes 2026 / Android / Conversation Rich",
+    "existed": true
+  }
+}
