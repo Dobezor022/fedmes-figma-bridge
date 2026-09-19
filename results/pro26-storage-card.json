@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "pro26-storage-card",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 390,
+  "completedAt": "2026-09-19T12:54:03.993Z",
+  "output": {
+    "id": "26:5941",
+    "name": "FedMes26/Settings/StorageCard",
+    "existed": false,
+    "variants": 2
+  }
+}
