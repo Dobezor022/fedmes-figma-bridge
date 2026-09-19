@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-exception-row",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 606,
+  "completedAt": "2026-09-19T13:38:24.567Z",
+  "output": {
+    "id": "27:13614",
+    "name": "FedMes26/Call/ExceptionRow",
+    "existed": false,
+    "variants": 4
+  }
+}
