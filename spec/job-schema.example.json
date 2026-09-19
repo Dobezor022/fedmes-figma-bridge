@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "jobId": "unique-id",
+  "command": "builder_action",
+  "targetFileKey": null,
+  "payload": {
+    "action": "all"
+  }
+}
