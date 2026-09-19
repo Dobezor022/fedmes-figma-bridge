@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "restore-layout-screen-60",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 145,
+  "completedAt": "2026-09-19T12:12:44.630Z",
+  "output": {
+    "id": "24:5236",
+    "name": "FedMes Remote / Android / Media Viewer / Video",
+    "instances": 4
+  }
+}
