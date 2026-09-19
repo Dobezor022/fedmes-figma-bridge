@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "restore-layout-screen-78",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 138,
+  "completedAt": "2026-09-19T12:12:30.961Z",
+  "output": {
+    "id": "24:5013",
+    "name": "FedMes Remote / Android / Settings / Notifications",
+    "instances": 7
+  }
+}
