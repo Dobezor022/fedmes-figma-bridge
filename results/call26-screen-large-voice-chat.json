@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "call26-screen-large-voice-chat",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 633,
+  "completedAt": "2026-09-19T13:40:27.040Z",
+  "output": {
+    "id": "27:14534",
+    "name": "FedMes Remote / FedMes 2026 / Android / Large Voice Chat",
+    "instances": 8
+  }
+}
