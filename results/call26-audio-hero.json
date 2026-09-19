@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-audio-hero",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 563,
+  "completedAt": "2026-09-19T13:35:13.568Z",
+  "output": {
+    "id": "27:12094",
+    "name": "FedMes26/Call/AudioHero",
+    "existed": false,
+    "variants": 3
+  }
+}
