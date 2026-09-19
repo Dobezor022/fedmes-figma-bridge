@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-desktop-grid",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 637,
+  "completedAt": "2026-09-19T13:43:18.283Z",
+  "output": {
+    "id": "27:14985",
+    "name": "FedMes26/Desktop/CallGrid",
+    "existed": false,
+    "variants": 2
+  }
+}
