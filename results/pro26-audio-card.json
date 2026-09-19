@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "pro26-audio-card",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 354,
+  "completedAt": "2026-09-19T12:51:14.262Z",
+  "output": {
+    "id": "26:4765",
+    "name": "FedMes26/Media/AudioCard",
+    "existed": false,
+    "variants": 4
+  }
+}
