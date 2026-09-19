@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "pro26-screen-windows-info",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 365,
+  "completedAt": "2026-09-19T12:51:55.124Z",
+  "output": {
+    "id": "26:5248",
+    "name": "FedMes Remote / FedMes 2026 / Windows / Production Three Column",
+    "instances": 13
+  }
+}
