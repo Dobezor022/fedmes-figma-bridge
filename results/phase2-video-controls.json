@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "phase2-video-controls",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 53,
+  "completedAt": "2026-09-19T12:03:10.552Z",
+  "output": {
+    "id": "24:2758",
+    "name": "Media/VideoControls",
+    "existed": false,
+    "variants": 4
+  }
+}
