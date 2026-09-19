@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "phase3-notification-row",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 71,
+  "completedAt": "2026-09-19T12:05:48.629Z",
+  "output": {
+    "id": "24:3208",
+    "name": "Settings/NotificationRow",
+    "existed": false,
+    "variants": 4
+  }
+}
