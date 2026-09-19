@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "pro26-recovery-card",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 371,
+  "completedAt": "2026-09-19T12:52:38.564Z",
+  "output": {
+    "id": "26:5429",
+    "name": "FedMes26/Security/RecoveryCard",
+    "existed": false,
+    "variants": 2
+  }
+}
