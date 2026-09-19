@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "media26-scrubber",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 514,
+  "completedAt": "2026-09-19T13:21:12.296Z",
+  "output": {
+    "id": "27:10543",
+    "name": "FedMes26/Media/VideoScrubber",
+    "existed": false,
+    "variants": 4
+  }
+}
