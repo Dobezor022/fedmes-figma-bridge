@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "fm26-archive-row",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 296,
+  "completedAt": "2026-09-19T12:41:16.682Z",
+  "output": {
+    "id": "24:8913",
+    "name": "FedMes26/Chat/ArchiveRow",
+    "existed": false,
+    "variants": 4
+  }
+}
