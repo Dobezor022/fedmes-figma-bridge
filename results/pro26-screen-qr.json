@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "pro26-screen-qr",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 380,
+  "completedAt": "2026-09-19T12:53:08.151Z",
+  "output": {
+    "id": "26:5720",
+    "name": "FedMes Remote / FedMes 2026 / Windows / QR Sign In",
+    "instances": 2
+  }
+}
