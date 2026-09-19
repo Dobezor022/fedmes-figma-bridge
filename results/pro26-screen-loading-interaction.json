@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "pro26-screen-loading-interaction",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 428,
+  "completedAt": "2026-09-19T12:59:05.006Z",
+  "output": {
+    "id": "26:7783",
+    "name": "FedMes Remote / FedMes 2026 / Android / Loading Interaction",
+    "instances": 4
+  }
+}
