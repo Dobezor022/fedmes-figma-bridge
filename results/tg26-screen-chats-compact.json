@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "tg26-screen-chats-compact",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 408,
+  "completedAt": "2026-09-19T12:58:08.107Z",
+  "output": {
+    "id": "26:6793",
+    "name": "FedMes Remote / FedMes 2026 / Android / Chats Compact",
+    "instances": 10
+  }
+}
