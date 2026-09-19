@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "sanitize-security-recovery",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 281,
+  "completedAt": "2026-09-19T12:40:06.484Z",
+  "output": {
+    "id": "24:1681",
+    "name": "Security/RecoveryKeyCard",
+    "existed": true,
+    "variants": 2
+  }
+}
