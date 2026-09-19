@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-chat-header-actions",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 636,
+  "completedAt": "2026-09-19T13:43:15.338Z",
+  "output": {
+    "id": "27:14912",
+    "name": "FedMes26/Call/ChatHeaderActions",
+    "existed": false,
+    "variants": 2
+  }
+}
