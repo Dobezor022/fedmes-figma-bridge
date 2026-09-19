@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "phase5-windows-qr-waiting",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 93,
+  "completedAt": "2026-09-19T12:07:23.884Z",
+  "output": {
+    "id": "24:3884",
+    "name": "FedMes Remote / Windows / QR Sign In / Waiting",
+    "instances": 2
+  }
+}
