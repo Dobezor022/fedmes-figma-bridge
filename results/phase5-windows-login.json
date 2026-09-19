@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "phase5-windows-login",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 95,
+  "completedAt": "2026-09-19T12:07:27.335Z",
+  "output": {
+    "id": "24:3945",
+    "name": "FedMes Remote / Windows / Login / Credentials",
+    "instances": 2
+  }
+}
