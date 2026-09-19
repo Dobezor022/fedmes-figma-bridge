@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "media26-video-message-expanded",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 501,
+  "completedAt": "2026-09-19T13:20:38.437Z",
+  "output": {
+    "id": "27:10187",
+    "name": "FedMes26/Media/VideoMessageExpanded",
+    "existed": false,
+    "variants": 4
+  }
+}
