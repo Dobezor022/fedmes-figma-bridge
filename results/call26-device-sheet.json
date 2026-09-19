@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-device-sheet",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 576,
+  "completedAt": "2026-09-19T13:36:12.457Z",
+  "output": {
+    "id": "27:12600",
+    "name": "FedMes26/Call/DeviceSheet",
+    "existed": false,
+    "variants": 2
+  }
+}
