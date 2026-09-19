@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "media26-video-gesture-overlay",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 494,
+  "completedAt": "2026-09-19T13:20:12.579Z",
+  "output": {
+    "id": "27:9819",
+    "name": "FedMes26/Media/VideoGestureOverlay",
+    "existed": false,
+    "variants": 12
+  }
+}
