@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "strict-fm26-profile-header",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 287,
+  "completedAt": "2026-09-19T12:40:17.263Z",
+  "output": {
+    "id": "24:7777",
+    "name": "FedMes26/Profile/Header",
+    "existed": true,
+    "variants": 2
+  }
+}
