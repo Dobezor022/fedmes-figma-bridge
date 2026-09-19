@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "pro26-screen-content-rich",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 360,
+  "completedAt": "2026-09-19T12:51:44.120Z",
+  "output": {
+    "id": "26:4925",
+    "name": "FedMes Remote / FedMes 2026 / Android / Links Files Album",
+    "instances": 8
+  }
+}
