@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "phase2-screen-device-approval",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 63,
+  "completedAt": "2026-09-19T12:03:34.724Z",
+  "output": {
+    "id": "24:3067",
+    "name": "FedMes Remote / Android / Device Link Approval",
+    "instances": 5
+  }
+}
