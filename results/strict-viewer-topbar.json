@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "strict-viewer-topbar",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 316,
+  "completedAt": "2026-09-19T12:43:14.579Z",
+  "output": {
+    "id": "24:2315",
+    "name": "Viewer/TopBar",
+    "existed": true,
+    "variants": 2
+  }
+}
