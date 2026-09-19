@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "phase5-auth-progress",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 88,
+  "completedAt": "2026-09-19T12:07:13.791Z",
+  "output": {
+    "id": "24:3794",
+    "name": "Auth/ProgressState",
+    "existed": false,
+    "variants": 6
+  }
+}
