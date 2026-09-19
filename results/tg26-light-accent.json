@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "jobId": "tg26-light-accent",
+  "status": "completed",
+  "command": "upsert_color_token",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 203,
+  "completedAt": "2026-09-19T12:20:28.205Z",
+  "output": {
+    "id": "VariableID:18:44",
+    "name": "color/accent/default"
+  }
+}
