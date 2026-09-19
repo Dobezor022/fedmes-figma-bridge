@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "fm26-screen-huawei-rich",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 262,
+  "completedAt": "2026-09-19T12:30:27.507Z",
+  "output": {
+    "id": "24:8735",
+    "name": "FedMes Remote / FedMes 2026 / Huawei Tablet / Rich Conversation",
+    "instances": 11
+  }
+}
