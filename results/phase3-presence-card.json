@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "phase3-presence-card",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 73,
+  "completedAt": "2026-09-19T12:05:52.869Z",
+  "output": {
+    "id": "24:3228",
+    "name": "Privacy/PresenceCard",
+    "existed": false,
+    "variants": 2
+  }
+}
