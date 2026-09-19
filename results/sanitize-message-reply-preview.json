@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "sanitize-message-reply-preview",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 274,
+  "completedAt": "2026-09-19T12:39:10.453Z",
+  "output": {
+    "id": "24:784",
+    "name": "Message/ReplyPreview",
+    "existed": true,
+    "variants": 4
+  }
+}
