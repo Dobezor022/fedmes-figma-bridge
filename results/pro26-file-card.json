@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "pro26-file-card",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 353,
+  "completedAt": "2026-09-19T12:51:11.471Z",
+  "output": {
+    "id": "26:4730",
+    "name": "FedMes26/Media/FileCard",
+    "existed": false,
+    "variants": 8
+  }
+}
