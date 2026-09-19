@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "media26-screen-auth-qr-only",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 475,
+  "completedAt": "2026-09-19T13:08:14.115Z",
+  "output": {
+    "id": "26:9434",
+    "name": "FedMes Remote / FedMes 2026 / Windows / Auth QR Only",
+    "instances": 2
+  }
+}
