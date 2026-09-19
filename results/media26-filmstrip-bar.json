@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "media26-filmstrip-bar",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 463,
+  "completedAt": "2026-09-19T13:07:26.730Z",
+  "output": {
+    "id": "26:9080",
+    "name": "FedMes26/Media/FilmstripBar",
+    "existed": false,
+    "variants": 2
+  }
+}
