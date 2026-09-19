@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "prod-search-globaloverlay-001",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 33,
+  "completedAt": "2026-09-19T11:58:28.157Z",
+  "output": {
+    "id": "24:2389",
+    "name": "Search/GlobalOverlay",
+    "existed": false,
+    "variants": 2
+  }
+}
