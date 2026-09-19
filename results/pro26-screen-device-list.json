@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "pro26-screen-device-list",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 378,
+  "completedAt": "2026-09-19T12:53:04.371Z",
+  "output": {
+    "id": "26:5676",
+    "name": "FedMes Remote / FedMes 2026 / Android / Devices",
+    "instances": 6
+  }
+}
