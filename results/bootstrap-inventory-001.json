@@ -1,0 +1,642 @@
+{
+  "version": 1,
+  "jobId": "bootstrap-inventory-001",
+  "status": "completed",
+  "command": "inventory",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 2,
+  "completedAt": "2026-09-19T11:52:57.156Z",
+  "output": {
+    "fileKey": null,
+    "pages": [
+      {
+        "id": "0:1",
+        "name": "00 Design System"
+      },
+      {
+        "id": "10:4",
+        "name": "01 Product Screens"
+      },
+      {
+        "id": "10:5",
+        "name": "02 Documentation"
+      }
+    ],
+    "components": [],
+    "variables": [
+      {
+        "name": "neutral/950",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "neutral/900",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "neutral/850",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "neutral/700",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "neutral/100",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "neutral/400",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "accent/500",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "secure/500",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "danger/500",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "warning/500",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "light/background",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "light/surface",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "light/surfaceSecondary",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "light/border",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "light/text",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "light/muted",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "bubble/greenLight",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "bubble/greenDark",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "message/text",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "selection/red",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:2"
+      },
+      {
+        "name": "color/bg/base",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:23"
+      },
+      {
+        "name": "color/surface/base",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:23"
+      },
+      {
+        "name": "color/surface/raised",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:23"
+      },
+      {
+        "name": "color/border/default",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:23"
+      },
+      {
+        "name": "color/text/primary",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:23"
+      },
+      {
+        "name": "color/text/secondary",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:23"
+      },
+      {
+        "name": "color/accent/default",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:23"
+      },
+      {
+        "name": "color/status/secure",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:23"
+      },
+      {
+        "name": "color/status/danger",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:23"
+      },
+      {
+        "name": "color/status/warning",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:23"
+      },
+      {
+        "name": "color/bg/base",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:34"
+      },
+      {
+        "name": "color/surface/base",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:34"
+      },
+      {
+        "name": "color/surface/raised",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:34"
+      },
+      {
+        "name": "color/border/default",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:34"
+      },
+      {
+        "name": "color/text/primary",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:34"
+      },
+      {
+        "name": "color/text/secondary",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:34"
+      },
+      {
+        "name": "color/accent/default",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:34"
+      },
+      {
+        "name": "color/status/secure",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:34"
+      },
+      {
+        "name": "color/status/danger",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:34"
+      },
+      {
+        "name": "color/status/warning",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:13:34"
+      },
+      {
+        "name": "spacing/2xs",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:13:45"
+      },
+      {
+        "name": "spacing/xs",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:13:45"
+      },
+      {
+        "name": "spacing/sm",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:13:45"
+      },
+      {
+        "name": "spacing/md",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:13:45"
+      },
+      {
+        "name": "spacing/lg",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:13:45"
+      },
+      {
+        "name": "radius/component",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:13:45"
+      },
+      {
+        "name": "stroke/divider",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:13:45"
+      },
+      {
+        "name": "size/rail",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:13:45"
+      },
+      {
+        "name": "size/row",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:13:45"
+      },
+      {
+        "name": "size/touch",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:13:45"
+      },
+      {
+        "name": "neutral/950",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "neutral/900",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "neutral/850",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "neutral/700",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "neutral/100",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "neutral/400",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "accent/500",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "secure/500",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "danger/500",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "warning/500",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "light/background",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "light/surface",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "light/surfaceSecondary",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "light/border",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "light/text",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "light/muted",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "bubble/outDark",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "bubble/inDark",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "bubble/outLight",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "bubble/inLight",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:3"
+      },
+      {
+        "name": "color/bg/base",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:24"
+      },
+      {
+        "name": "color/surface/base",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:24"
+      },
+      {
+        "name": "color/surface/raised",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:24"
+      },
+      {
+        "name": "color/border/default",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:24"
+      },
+      {
+        "name": "color/text/primary",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:24"
+      },
+      {
+        "name": "color/text/secondary",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:24"
+      },
+      {
+        "name": "color/accent/default",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:24"
+      },
+      {
+        "name": "color/status/secure",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:24"
+      },
+      {
+        "name": "color/status/danger",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:24"
+      },
+      {
+        "name": "color/status/warning",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:24"
+      },
+      {
+        "name": "color/bubble/incoming",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:24"
+      },
+      {
+        "name": "color/bubble/outgoing",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:24"
+      },
+      {
+        "name": "color/bg/base",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:37"
+      },
+      {
+        "name": "color/surface/base",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:37"
+      },
+      {
+        "name": "color/surface/raised",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:37"
+      },
+      {
+        "name": "color/border/default",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:37"
+      },
+      {
+        "name": "color/text/primary",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:37"
+      },
+      {
+        "name": "color/text/secondary",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:37"
+      },
+      {
+        "name": "color/accent/default",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:37"
+      },
+      {
+        "name": "color/status/secure",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:37"
+      },
+      {
+        "name": "color/status/danger",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:37"
+      },
+      {
+        "name": "color/status/warning",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:37"
+      },
+      {
+        "name": "color/bubble/incoming",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:37"
+      },
+      {
+        "name": "color/bubble/outgoing",
+        "type": "COLOR",
+        "collectionId": "VariableCollectionId:18:37"
+      },
+      {
+        "name": "spacing/2xs",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:18:50"
+      },
+      {
+        "name": "spacing/xs",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:18:50"
+      },
+      {
+        "name": "spacing/sm",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:18:50"
+      },
+      {
+        "name": "spacing/md",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:18:50"
+      },
+      {
+        "name": "spacing/lg",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:18:50"
+      },
+      {
+        "name": "radius/component",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:18:50"
+      },
+      {
+        "name": "radius/media",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:18:50"
+      },
+      {
+        "name": "radius/full",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:18:50"
+      },
+      {
+        "name": "stroke/divider",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:18:50"
+      },
+      {
+        "name": "size/rail",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:18:50"
+      },
+      {
+        "name": "size/row",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:18:50"
+      },
+      {
+        "name": "size/touch",
+        "type": "FLOAT",
+        "collectionId": "VariableCollectionId:18:50"
+      }
+    ],
+    "collections": [
+      {
+        "id": "VariableCollectionId:13:2",
+        "name": "Primitives",
+        "count": 20,
+        "modes": [
+          "Value"
+        ]
+      },
+      {
+        "id": "VariableCollectionId:13:23",
+        "name": "Semantic / Dark",
+        "count": 10,
+        "modes": [
+          "Dark"
+        ]
+      },
+      {
+        "id": "VariableCollectionId:13:34",
+        "name": "Semantic / Light",
+        "count": 10,
+        "modes": [
+          "Light"
+        ]
+      },
+      {
+        "id": "VariableCollectionId:13:45",
+        "name": "Metrics",
+        "count": 10,
+        "modes": [
+          "Value"
+        ]
+      },
+      {
+        "id": "VariableCollectionId:18:3",
+        "name": "FedMes / Primitives",
+        "count": 20,
+        "modes": [
+          "Value"
+        ]
+      },
+      {
+        "id": "VariableCollectionId:18:24",
+        "name": "FedMes / Semantic Dark",
+        "count": 12,
+        "modes": [
+          "Dark"
+        ]
+      },
+      {
+        "id": "VariableCollectionId:18:37",
+        "name": "FedMes / Semantic Light",
+        "count": 12,
+        "modes": [
+          "Light"
+        ]
+      },
+      {
+        "id": "VariableCollectionId:18:50",
+        "name": "FedMes / Metrics",
+        "count": 12,
+        "modes": [
+          "Value"
+        ]
+      }
+    ],
+    "textStyles": [
+      "Type/Display/22",
+      "Type/Title/19",
+      "Type/Body/14",
+      "Type/Body Strong/14",
+      "Type/Action/13",
+      "Type/Caption/11",
+      "FedMes/Display/22",
+      "FedMes/Title/19",
+      "FedMes/Body/14",
+      "FedMes/Body Strong/14",
+      "FedMes/Action/13",
+      "FedMes/Caption/11"
+    ],
+    "screens": []
+  }
+}
