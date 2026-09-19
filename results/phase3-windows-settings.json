@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "phase3-windows-settings",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 76,
+  "completedAt": "2026-09-19T12:06:02.714Z",
+  "output": {
+    "id": "24:3360",
+    "name": "FedMes Remote / Windows / Settings",
+    "instances": 9
+  }
+}
