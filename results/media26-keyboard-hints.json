@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "media26-keyboard-hints",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 520,
+  "completedAt": "2026-09-19T13:21:27.437Z",
+  "output": {
+    "id": "27:10655",
+    "name": "FedMes26/Media/ViewerKeyboardHints",
+    "existed": false,
+    "variants": 2
+  }
+}
