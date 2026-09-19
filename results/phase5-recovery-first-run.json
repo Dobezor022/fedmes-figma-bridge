@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "phase5-recovery-first-run",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 90,
+  "completedAt": "2026-09-19T12:07:18.440Z",
+  "output": {
+    "id": "24:3832",
+    "name": "Security/RecoveryKeyFirstRun",
+    "existed": false,
+    "variants": 2
+  }
+}
