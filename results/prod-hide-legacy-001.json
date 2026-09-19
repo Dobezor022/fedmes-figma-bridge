@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "jobId": "prod-hide-legacy-001",
+  "status": "completed",
+  "command": "builder_action",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 34,
+  "completedAt": "2026-09-19T11:58:29.893Z",
+  "output": {
+    "action": "legacy"
+  }
+}
