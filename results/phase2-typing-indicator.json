@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "phase2-typing-indicator",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 40,
+  "completedAt": "2026-09-19T12:02:31.940Z",
+  "output": {
+    "id": "24:2423",
+    "name": "Message/TypingIndicator",
+    "existed": false,
+    "variants": 2
+  }
+}
