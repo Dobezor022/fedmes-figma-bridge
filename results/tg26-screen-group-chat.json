@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "tg26-screen-group-chat",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 411,
+  "completedAt": "2026-09-19T12:58:15.369Z",
+  "output": {
+    "id": "26:6994",
+    "name": "FedMes Remote / FedMes 2026 / Android / Group Conversation",
+    "instances": 10
+  }
+}
