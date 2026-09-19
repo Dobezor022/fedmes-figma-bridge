@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "phase3-settings-slider-row",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 70,
+  "completedAt": "2026-09-19T12:05:45.893Z",
+  "output": {
+    "id": "24:3187",
+    "name": "Settings/SliderRow",
+    "existed": false,
+    "variants": 2
+  }
+}
