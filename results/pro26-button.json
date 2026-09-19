@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "pro26-button",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 420,
+  "completedAt": "2026-09-19T12:58:44.845Z",
+  "output": {
+    "id": "26:7472",
+    "name": "FedMes26/Interactive/Button",
+    "existed": false,
+    "variants": 30
+  }
+}
