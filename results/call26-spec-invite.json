@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "jobId": "call26-spec-invite",
+  "status": "completed",
+  "command": "set_component_description",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 598,
+  "completedAt": "2026-09-19T13:37:26.462Z",
+  "output": {
+    "id": "27:12337",
+    "name": "FedMes26/Call/InvitePanel"
+  }
+}
