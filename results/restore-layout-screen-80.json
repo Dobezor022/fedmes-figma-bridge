@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "restore-layout-screen-80",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 140,
+  "completedAt": "2026-09-19T12:12:35.386Z",
+  "output": {
+    "id": "24:5090",
+    "name": "FedMes Remote / Android / Settings / Data and Storage",
+    "instances": 6
+  }
+}
