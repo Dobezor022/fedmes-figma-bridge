@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "prod-message-round-002",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 11,
+  "completedAt": "2026-09-19T11:56:47.106Z",
+  "output": {
+    "id": "24:1275",
+    "name": "Message/RoundVideo",
+    "existed": false,
+    "variants": 8
+  }
+}
