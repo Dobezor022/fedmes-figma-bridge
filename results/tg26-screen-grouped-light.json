@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "tg26-screen-grouped-light",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 410,
+  "completedAt": "2026-09-19T12:58:13.030Z",
+  "output": {
+    "id": "26:6935",
+    "name": "FedMes Remote / FedMes 2026 / Android / Grouped Bubbles Light",
+    "instances": 9
+  }
+}
