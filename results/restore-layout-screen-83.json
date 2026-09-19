@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "restore-layout-screen-83",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 150,
+  "completedAt": "2026-09-19T12:12:55.921Z",
+  "output": {
+    "id": "24:5460",
+    "name": "FedMes Remote / Huawei / Tablet / Settings",
+    "instances": 8
+  }
+}
