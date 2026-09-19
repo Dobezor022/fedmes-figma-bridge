@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "pro26-screen-pinned-unread",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 361,
+  "completedAt": "2026-09-19T12:51:46.314Z",
+  "output": {
+    "id": "26:4993",
+    "name": "FedMes Remote / FedMes 2026 / Android / Pinned and Unread",
+    "instances": 9
+  }
+}
