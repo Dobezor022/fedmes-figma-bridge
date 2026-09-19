@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "jobId": "tg26-light-surface",
+  "status": "completed",
+  "command": "upsert_color_token",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 198,
+  "completedAt": "2026-09-19T12:20:19.687Z",
+  "output": {
+    "id": "VariableID:18:39",
+    "name": "color/surface/base"
+  }
+}
