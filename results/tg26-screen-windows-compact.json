@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "tg26-screen-windows-compact",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 415,
+  "completedAt": "2026-09-19T12:58:24.127Z",
+  "output": {
+    "id": "26:7214",
+    "name": "FedMes Remote / FedMes 2026 / Windows / Telegram Density",
+    "instances": 12
+  }
+}
