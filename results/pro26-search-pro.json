@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "pro26-search-pro",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 421,
+  "completedAt": "2026-09-19T12:58:47.682Z",
+  "output": {
+    "id": "26:7527",
+    "name": "FedMes26/Search/FieldPro",
+    "existed": false,
+    "variants": 8
+  }
+}
