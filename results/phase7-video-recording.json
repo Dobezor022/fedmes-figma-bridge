@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "phase7-video-recording",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 169,
+  "completedAt": "2026-09-19T12:14:40.610Z",
+  "output": {
+    "id": "24:6767",
+    "name": "Composer/VideoRecording",
+    "existed": false,
+    "variants": 4
+  }
+}
