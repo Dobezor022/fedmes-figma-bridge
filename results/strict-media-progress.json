@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "strict-media-progress",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 312,
+  "completedAt": "2026-09-19T12:43:08.199Z",
+  "output": {
+    "id": "24:2291",
+    "name": "Media/ProgressOverlay",
+    "existed": true,
+    "variants": 2
+  }
+}
