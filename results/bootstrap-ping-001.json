@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "bootstrap-ping-001",
+  "status": "completed",
+  "command": "ping",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 1,
+  "completedAt": "2026-09-19T11:52:54.979Z",
+  "output": {
+    "pong": true,
+    "clientId": "fedmes-mu8avycy-xgfxtpag",
+    "fileKey": null
+  }
+}
