@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "strict-search-result-row",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 324,
+  "completedAt": "2026-09-19T12:44:11.085Z",
+  "output": {
+    "id": "24:3752",
+    "name": "Search/ResultRow",
+    "existed": true,
+    "variants": 4
+  }
+}
