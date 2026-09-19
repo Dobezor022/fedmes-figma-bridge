@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "strict-data-policy",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 336,
+  "completedAt": "2026-09-19T12:45:15.056Z",
+  "output": {
+    "id": "24:3219",
+    "name": "Settings/DataPolicyCard",
+    "existed": true,
+    "variants": 2
+  }
+}
