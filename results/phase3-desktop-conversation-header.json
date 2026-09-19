@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "phase3-desktop-conversation-header",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 67,
+  "completedAt": "2026-09-19T12:05:38.399Z",
+  "output": {
+    "id": "24:3138",
+    "name": "Desktop/ConversationHeader",
+    "existed": false,
+    "variants": 2
+  }
+}
