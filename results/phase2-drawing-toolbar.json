@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "phase2-drawing-toolbar",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 47,
+  "completedAt": "2026-09-19T12:02:54.769Z",
+  "output": {
+    "id": "24:2608",
+    "name": "Attachment/DrawingToolbar",
+    "existed": false,
+    "variants": 2
+  }
+}
