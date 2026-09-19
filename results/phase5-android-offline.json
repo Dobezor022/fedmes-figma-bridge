@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "phase5-android-offline",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 96,
+  "completedAt": "2026-09-19T12:07:33.111Z",
+  "output": {
+    "id": "24:3958",
+    "name": "FedMes Remote / Android / Conversation / Offline",
+    "instances": 5
+  }
+}
