@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "media26-shared-tabs-pro",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 499,
+  "completedAt": "2026-09-19T13:20:28.722Z",
+  "output": {
+    "id": "27:10016",
+    "name": "FedMes26/SharedMedia/TabsPro",
+    "existed": false,
+    "variants": 8
+  }
+}
