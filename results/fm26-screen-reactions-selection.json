@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "fm26-screen-reactions-selection",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 306,
+  "completedAt": "2026-09-19T12:42:19.769Z",
+  "output": {
+    "id": "25:9226",
+    "name": "FedMes Remote / FedMes 2026 / Android / Reactions and Selection",
+    "instances": 7
+  }
+}
