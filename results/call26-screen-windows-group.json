@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "call26-screen-windows-group",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 593,
+  "completedAt": "2026-09-19T13:37:16.906Z",
+  "output": {
+    "id": "27:13265",
+    "name": "FedMes Remote / FedMes 2026 / Windows / Group Call Split View",
+    "instances": 8
+  }
+}
