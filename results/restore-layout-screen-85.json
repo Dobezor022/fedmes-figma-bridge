@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "restore-layout-screen-85",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 154,
+  "completedAt": "2026-09-19T12:13:04.816Z",
+  "output": {
+    "id": "24:5593",
+    "name": "FedMes Remote / Windows / Devices and Security",
+    "instances": 6
+  }
+}
