@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "sanitize-group-member-row",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 242,
+  "completedAt": "2026-09-19T12:29:12.617Z",
+  "output": {
+    "id": "24:2854",
+    "name": "Group/MemberRow",
+    "existed": true,
+    "variants": 4
+  }
+}
