@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-participant-row",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 567,
+  "completedAt": "2026-09-19T13:35:28.359Z",
+  "output": {
+    "id": "27:12318",
+    "name": "FedMes26/Call/ParticipantRow",
+    "existed": false,
+    "variants": 6
+  }
+}
