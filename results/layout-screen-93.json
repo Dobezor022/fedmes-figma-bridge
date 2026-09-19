@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "layout-screen-93",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 129,
+  "completedAt": "2026-09-19T12:12:12.195Z",
+  "output": {
+    "id": "24:3884",
+    "name": "FedMes Remote / Windows / QR Sign In / Waiting",
+    "existed": true
+  }
+}
