@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "tg26-screen-video-recording",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 413,
+  "completedAt": "2026-09-19T12:58:19.465Z",
+  "output": {
+    "id": "26:7103",
+    "name": "FedMes Remote / FedMes 2026 / Android / Video Recording Pro",
+    "instances": 4
+  }
+}
