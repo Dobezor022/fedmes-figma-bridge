@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "fm26-viewer-bar",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 250,
+  "completedAt": "2026-09-19T12:29:36.861Z",
+  "output": {
+    "id": "24:8306",
+    "name": "FedMes26/Media/ViewerBar",
+    "existed": false,
+    "variants": 2
+  }
+}
