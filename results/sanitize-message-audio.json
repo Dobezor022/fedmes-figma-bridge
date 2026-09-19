@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "sanitize-message-audio",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 278,
+  "completedAt": "2026-09-19T12:39:16.790Z",
+  "output": {
+    "id": "24:1218",
+    "name": "Message/Audio",
+    "existed": true,
+    "variants": 4
+  }
+}
