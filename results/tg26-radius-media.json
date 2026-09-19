@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "jobId": "tg26-radius-media",
+  "status": "completed",
+  "command": "upsert_float_token",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 213,
+  "completedAt": "2026-09-19T12:20:45.065Z",
+  "output": {
+    "id": "VariableID:18:57",
+    "name": "radius/media"
+  }
+}
