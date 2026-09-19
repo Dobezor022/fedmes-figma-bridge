@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "final26-story-reply",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 660,
+  "completedAt": "2026-09-19T14:09:41.378Z",
+  "output": {
+    "id": "30:15710",
+    "name": "FedMes26/Stories/ReplyBar",
+    "existed": false,
+    "variants": 2
+  }
+}
