@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "fm26-chat-filters",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 254,
+  "completedAt": "2026-09-19T12:29:52.789Z",
+  "output": {
+    "id": "24:8498",
+    "name": "FedMes26/Chat/Filters",
+    "existed": false,
+    "variants": 8
+  }
+}
