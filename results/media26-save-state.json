@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "media26-save-state",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 534,
+  "completedAt": "2026-09-19T13:23:25.656Z",
+  "output": {
+    "id": "27:11076",
+    "name": "FedMes26/Media/SaveState",
+    "existed": false,
+    "variants": 8
+  }
+}
