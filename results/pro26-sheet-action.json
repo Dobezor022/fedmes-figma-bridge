@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "pro26-sheet-action",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 386,
+  "completedAt": "2026-09-19T12:53:52.958Z",
+  "output": {
+    "id": "26:5803",
+    "name": "FedMes26/Sheet/Action",
+    "existed": false,
+    "variants": 4
+  }
+}
