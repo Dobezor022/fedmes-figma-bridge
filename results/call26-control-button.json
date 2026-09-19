@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-control-button",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 561,
+  "completedAt": "2026-09-19T13:35:06.995Z",
+  "output": {
+    "id": "27:12059",
+    "name": "FedMes26/Call/ControlButton",
+    "existed": false,
+    "variants": 27
+  }
+}
