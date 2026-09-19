@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "media26-screen-windows-photo-wide",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 556,
+  "completedAt": "2026-09-19T13:27:06.602Z",
+  "output": {
+    "id": "27:11801",
+    "name": "FedMes Remote / FedMes 2026 / Windows / Photo Viewer Widescreen",
+    "instances": 4
+  }
+}
