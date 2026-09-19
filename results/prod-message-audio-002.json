@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "prod-message-audio-002",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 10,
+  "completedAt": "2026-09-19T11:56:44.341Z",
+  "output": {
+    "id": "24:1218",
+    "name": "Message/Audio",
+    "existed": false,
+    "variants": 4
+  }
+}
