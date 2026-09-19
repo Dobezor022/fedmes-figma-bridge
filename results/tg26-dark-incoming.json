@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "jobId": "tg26-dark-incoming",
+  "status": "completed",
+  "command": "upsert_color_token",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 195,
+  "completedAt": "2026-09-19T12:20:14.264Z",
+  "output": {
+    "id": "VariableID:18:35",
+    "name": "color/bubble/incoming"
+  }
+}
