@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "atlas26-calls",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 617,
+  "completedAt": "2026-09-19T13:39:04.628Z",
+  "output": {
+    "id": "27:14000",
+    "name": "FedMes Remote / Component Atlas / FedMes26 / Calls",
+    "instances": 35
+  }
+}
