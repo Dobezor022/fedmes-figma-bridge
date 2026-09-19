@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "jobId": "freeze19-organize",
+  "status": "completed",
+  "command": "builder_action",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 680,
+  "completedAt": "2026-09-19T14:18:21.078Z",
+  "output": {
+    "designSystem": {
+      "moved": 0,
+      "sections": {
+        "Foundations": {
+          "count": 0,
+          "width": 2200,
+          "height": 520
+        },
+        "Icons": {
+          "count": 29,
+          "width": 2686,
+          "height": 520
+        },
+        "Primitives": {
+          "count": 13,
+          "width": 3400,
+          "height": 1884
+        },
+        "Interaction": {
+          "count": 12,
+          "width": 3662,
+          "height": 4404
+        },
+        "Navigation": {
+          "count": 12,
+          "width": 3668,
+          "height": 2132
+        },
+        "Chat List": {
+          "count": 23,
+          "width": 3600,
+          "height": 6390
+        },
+        "Messages": {
+          "count": 38,
+          "width": 3924,
+          "height": 5797
+        },
+        "Composer": {
+          "count": 12,
+          "width": 3500,
+          "height": 2754
+        },
+        "Attachments": {
+          "count": 8,
+          "width": 3500,
+          "height": 1572
+        },
+        "Media": {
+          "count": 58,
+          "width": 4200,
+          "height": 15396
+        },
+        "Settings": {
+          "count": 24,
+          "width": 3800,
+          "height": 3570
+        },
+        "Security": {
+          "count": 11,
+          "width": 3800,
+          "height": 3432
+        },
+        "Calls": {
+          "count": 41,
+          "width": 4300,
+          "height": 7562
+        },
+        "Desktop": {
+          "count": 8,
+          "width": 6358,
+          "height": 4970
+        },
+        "Accessibility": {
+          "count": 1,
+          "width": 2800,
+          "height": 520
+        }
+      },
+      "totalHeight": 47039
+    },
+    "productScreens": {
+      "moved": 0,
+      "sections": {
+        "Android · Chats & Search": {
+          "count": 12,
+          "width": 2160,
+          "height": 3072
+        },
+        "Android · Conversation": {
+          "count": 30,
+          "width": 2160,
+          "height": 8042
+        },
+        "Android · Media": {
+          "count": 42,
+          "width": 2160,
+          "height": 11024
+        },
+        "Android · Calls": {
+          "count": 31,
+          "width": 2160,
+          "height": 8042
+        },
+        "Android · Settings": {
+          "count": 9,
+          "width": 2160,
+          "height": 3072
+        },
+        "Android · Security & Auth": {
+          "count": 5,
+          "width": 2160,
+          "height": 2078
+        },
+        "Android · Edge States": {
+          "count": 3,
+          "width": 1630,
+          "height": 1084
+        },
+        "Huawei Tablet": {
+          "count": 12,
+          "width": 2720,
+          "height": 5790
+        },
+        "Windows Desktop": {
+          "count": 32,
+          "width": 3200,
+          "height": 16670
+        },
+        "Component Atlas": {
+          "count": 13,
+          "width": 5920,
+          "height": 16840
+        },
+        "Legacy Screens": {
+          "count": 5,
+          "width": 1630,
+          "height": 2078
+        }
+      },
+      "totalHeight": 58892,
+      "legacyHidden": true
+    }
+  }
+}
