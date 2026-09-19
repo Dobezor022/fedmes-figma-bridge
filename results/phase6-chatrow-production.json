@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "phase6-chatrow-production",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 99,
+  "completedAt": "2026-09-19T12:08:18.112Z",
+  "output": {
+    "id": "24:4211",
+    "name": "ChatRow/Production",
+    "existed": false,
+    "variants": 36
+  }
+}
