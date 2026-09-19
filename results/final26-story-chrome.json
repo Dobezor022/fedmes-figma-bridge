@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "final26-story-chrome",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 659,
+  "completedAt": "2026-09-19T14:09:38.916Z",
+  "output": {
+    "id": "30:15697",
+    "name": "FedMes26/Stories/ViewerChrome",
+    "existed": false,
+    "variants": 2
+  }
+}
