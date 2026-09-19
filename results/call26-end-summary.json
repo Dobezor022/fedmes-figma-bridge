@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-end-summary",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 625,
+  "completedAt": "2026-09-19T13:40:05.499Z",
+  "output": {
+    "id": "27:14400",
+    "name": "FedMes26/Call/EndSummary",
+    "existed": false,
+    "variants": 4
+  }
+}
