@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "phase3-settings-choice-row",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 69,
+  "completedAt": "2026-09-19T12:05:43.664Z",
+  "output": {
+    "id": "24:3176",
+    "name": "Settings/ChoiceRow",
+    "existed": false,
+    "variants": 4
+  }
+}
