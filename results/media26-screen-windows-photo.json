@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "media26-screen-windows-photo",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 488,
+  "completedAt": "2026-09-19T13:09:26.500Z",
+  "output": {
+    "id": "26:9699",
+    "name": "FedMes Remote / FedMes 2026 / Windows / Photo Viewer Telegram Style",
+    "instances": 5
+  }
+}
