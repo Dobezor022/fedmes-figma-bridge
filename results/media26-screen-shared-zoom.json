@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "media26-screen-shared-zoom",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 508,
+  "completedAt": "2026-09-19T13:20:54.185Z",
+  "output": {
+    "id": "27:10348",
+    "name": "FedMes Remote / FedMes 2026 / Android / Shared Media Dense Grid",
+    "instances": 5
+  }
+}
