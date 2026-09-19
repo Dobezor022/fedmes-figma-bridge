@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "media26-screen-pip-gesture",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 505,
+  "completedAt": "2026-09-19T13:20:47.711Z",
+  "output": {
+    "id": "27:10258",
+    "name": "FedMes Remote / FedMes 2026 / Android / Video PiP Gesture",
+    "instances": 3
+  }
+}
