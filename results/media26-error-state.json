@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "media26-error-state",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 532,
+  "completedAt": "2026-09-19T13:23:18.527Z",
+  "output": {
+    "id": "27:11018",
+    "name": "FedMes26/Media/ErrorState",
+    "existed": false,
+    "variants": 8
+  }
+}
