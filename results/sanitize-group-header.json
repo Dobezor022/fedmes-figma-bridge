@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "sanitize-group-header",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 241,
+  "completedAt": "2026-09-19T12:29:11.143Z",
+  "output": {
+    "id": "24:2837",
+    "name": "Group/Header",
+    "existed": true,
+    "variants": 2
+  }
+}
