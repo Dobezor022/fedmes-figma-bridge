@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-history-row",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 570,
+  "completedAt": "2026-09-19T13:35:36.741Z",
+  "output": {
+    "id": "27:12386",
+    "name": "FedMes26/Call/HistoryRow",
+    "existed": false,
+    "variants": 6
+  }
+}
