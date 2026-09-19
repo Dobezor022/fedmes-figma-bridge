@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "sanitize-group-create-form",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 267,
+  "completedAt": "2026-09-19T12:30:44.660Z",
+  "output": {
+    "id": "24:6815",
+    "name": "Group/CreateForm",
+    "existed": true,
+    "variants": 2
+  }
+}
