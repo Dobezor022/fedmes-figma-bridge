@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-grid",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 575,
+  "completedAt": "2026-09-19T13:36:09.750Z",
+  "output": {
+    "id": "27:12577",
+    "name": "FedMes26/Call/Grid",
+    "existed": false,
+    "variants": 4
+  }
+}
