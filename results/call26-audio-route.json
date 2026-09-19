@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-audio-route",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 612,
+  "completedAt": "2026-09-19T13:38:52.261Z",
+  "output": {
+    "id": "27:13839",
+    "name": "FedMes26/Call/AudioRouteSheet",
+    "existed": false,
+    "variants": 3
+  }
+}
