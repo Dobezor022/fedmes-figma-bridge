@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "prod-message-text-002",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 6,
+  "completedAt": "2026-09-19T11:56:34.869Z",
+  "output": {
+    "id": "24:978",
+    "name": "Message/Text",
+    "existed": false,
+    "variants": 16
+  }
+}
