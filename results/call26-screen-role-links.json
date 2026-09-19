@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "call26-screen-role-links",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 634,
+  "completedAt": "2026-09-19T13:40:29.179Z",
+  "output": {
+    "id": "27:14619",
+    "name": "FedMes Remote / FedMes 2026 / Android / Voice Chat Role Links",
+    "instances": 4
+  }
+}
