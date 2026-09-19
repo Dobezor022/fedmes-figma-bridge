@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "call26-screen-invite",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 589,
+  "completedAt": "2026-09-19T13:37:06.255Z",
+  "output": {
+    "id": "27:13120",
+    "name": "FedMes Remote / FedMes 2026 / Android / Call Invite Link QR",
+    "instances": 4
+  }
+}
