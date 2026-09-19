@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "pro26-spinner",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 424,
+  "completedAt": "2026-09-19T12:58:56.025Z",
+  "output": {
+    "id": "26:7590",
+    "name": "FedMes26/Feedback/Spinner",
+    "existed": false,
+    "variants": 4
+  }
+}
