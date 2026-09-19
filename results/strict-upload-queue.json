@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "strict-upload-queue",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 333,
+  "completedAt": "2026-09-19T12:45:10.207Z",
+  "output": {
+    "id": "24:2568",
+    "name": "Composer/UploadQueueItem",
+    "existed": true,
+    "variants": 6
+  }
+}
