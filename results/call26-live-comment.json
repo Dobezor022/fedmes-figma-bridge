@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-live-comment",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 568,
+  "completedAt": "2026-09-19T13:35:30.760Z",
+  "output": {
+    "id": "27:12325",
+    "name": "FedMes26/Call/LiveComment",
+    "existed": false,
+    "variants": 2
+  }
+}
