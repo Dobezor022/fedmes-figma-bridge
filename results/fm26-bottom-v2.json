@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "fm26-bottom-v2",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 339,
+  "completedAt": "2026-09-19T12:46:06.007Z",
+  "output": {
+    "id": "25:9504",
+    "name": "FedMes26/Navigation/BottomBarV2",
+    "existed": false,
+    "variants": 8
+  }
+}
