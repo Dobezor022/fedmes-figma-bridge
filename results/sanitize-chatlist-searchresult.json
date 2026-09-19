@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "sanitize-chatlist-searchresult",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 265,
+  "completedAt": "2026-09-19T12:30:41.229Z",
+  "output": {
+    "id": "24:2266",
+    "name": "ChatList/SearchResult",
+    "existed": true,
+    "variants": 2
+  }
+}
