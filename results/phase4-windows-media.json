@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "phase4-windows-media",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 84,
+  "completedAt": "2026-09-19T12:06:20.047Z",
+  "output": {
+    "id": "24:3664",
+    "name": "FedMes Remote / Windows / Media Viewer",
+    "instances": 4
+  }
+}
