@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "pro26-dialog",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 388,
+  "completedAt": "2026-09-19T12:53:57.645Z",
+  "output": {
+    "id": "26:5875",
+    "name": "FedMes26/Dialog/Confirm",
+    "existed": false,
+    "variants": 4
+  }
+}
