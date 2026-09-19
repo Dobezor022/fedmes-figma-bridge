@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "pro26-iconbutton",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 419,
+  "completedAt": "2026-09-19T12:58:39.549Z",
+  "output": {
+    "id": "26:7411",
+    "name": "FedMes26/Interactive/IconButton",
+    "existed": false,
+    "variants": 16
+  }
+}
