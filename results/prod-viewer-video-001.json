@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "prod-viewer-video-001",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 27,
+  "completedAt": "2026-09-19T11:58:12.260Z",
+  "output": {
+    "id": "24:2329",
+    "name": "Viewer/Video",
+    "existed": false,
+    "variants": 2
+  }
+}
