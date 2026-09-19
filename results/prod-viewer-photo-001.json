@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "prod-viewer-photo-001",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 26,
+  "completedAt": "2026-09-19T11:58:10.357Z",
+  "output": {
+    "id": "24:2322",
+    "name": "Viewer/Photo",
+    "existed": false,
+    "variants": 2
+  }
+}
