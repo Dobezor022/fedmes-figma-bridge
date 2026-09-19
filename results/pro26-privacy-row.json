@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "pro26-privacy-row",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 374,
+  "completedAt": "2026-09-19T12:52:50.030Z",
+  "output": {
+    "id": "26:5562",
+    "name": "FedMes26/Settings/PrivacyRow",
+    "existed": false,
+    "variants": 6
+  }
+}
