@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "jobId": "final26-normalize-geometry",
+  "status": "failed",
+  "command": "builder_action",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 675,
+  "completedAt": "2026-09-19T14:10:47.460Z",
+  "error": "    at bridgeTrySetXY (PLUGIN_11_SOURCE:1468:39)\n    at bridgeNormalizeTree (PLUGIN_11_SOURCE:1493:36)\n    at bridgeNormalizeGeometry (PLUGIN_11_SOURCE:1506:53)\n"
+}
