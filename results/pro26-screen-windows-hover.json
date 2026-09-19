@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "pro26-screen-windows-hover",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 427,
+  "completedAt": "2026-09-19T12:59:03.227Z",
+  "output": {
+    "id": "26:7694",
+    "name": "FedMes Remote / FedMes 2026 / Windows / Hover and Focus",
+    "instances": 11
+  }
+}
