@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "media26-screen-save-denied",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 541,
+  "completedAt": "2026-09-19T13:23:37.210Z",
+  "output": {
+    "id": "27:11123",
+    "name": "FedMes Remote / FedMes 2026 / Android / Save Permission Denied",
+    "instances": 3
+  }
+}
