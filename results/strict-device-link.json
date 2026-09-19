@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "strict-device-link",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 337,
+  "completedAt": "2026-09-19T12:45:16.998Z",
+  "output": {
+    "id": "24:2712",
+    "name": "Security/DeviceLinkApproval",
+    "existed": true,
+    "variants": 6
+  }
+}
