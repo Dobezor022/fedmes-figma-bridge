@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "jobId": "spec-photo-viewer",
+  "status": "completed",
+  "command": "set_component_description",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 536,
+  "completedAt": "2026-09-19T13:23:28.728Z",
+  "output": {
+    "id": "26:9062",
+    "name": "FedMes26/Media/PhotoViewerPro"
+  }
+}
