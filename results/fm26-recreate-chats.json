@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "fm26-recreate-chats",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 346,
+  "completedAt": "2026-09-19T12:46:49.055Z",
+  "output": {
+    "id": "25:9536",
+    "name": "FedMes Remote / FedMes 2026 / Android / Chats Stories",
+    "instances": 14
+  }
+}
