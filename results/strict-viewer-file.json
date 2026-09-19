@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "strict-viewer-file",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 320,
+  "completedAt": "2026-09-19T12:44:04.520Z",
+  "output": {
+    "id": "24:2343",
+    "name": "Viewer/File",
+    "existed": true,
+    "variants": 2
+  }
+}
