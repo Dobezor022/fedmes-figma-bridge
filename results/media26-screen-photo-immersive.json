@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "media26-screen-photo-immersive",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 469,
+  "completedAt": "2026-09-19T13:07:40.344Z",
+  "output": {
+    "id": "26:9204",
+    "name": "FedMes Remote / FedMes 2026 / Android / Photo Viewer Immersive",
+    "instances": 3
+  }
+}
