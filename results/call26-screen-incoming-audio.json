@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "call26-screen-incoming-audio",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 580,
+  "completedAt": "2026-09-19T13:36:43.932Z",
+  "output": {
+    "id": "27:12634",
+    "name": "FedMes Remote / FedMes 2026 / Android / Incoming Audio Call",
+    "instances": 4
+  }
+}
