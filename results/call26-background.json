@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-background",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 572,
+  "completedAt": "2026-09-19T13:35:55.036Z",
+  "output": {
+    "id": "27:12430",
+    "name": "FedMes26/Call/Background",
+    "existed": false,
+    "variants": 4
+  }
+}
