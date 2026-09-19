@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "jobId": "pro26-media-audit",
+  "status": "completed",
+  "command": "builder_action",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 450,
+  "completedAt": "2026-09-19T13:01:40.928Z",
+  "output": {
+    "action": "audit"
+  }
+}
