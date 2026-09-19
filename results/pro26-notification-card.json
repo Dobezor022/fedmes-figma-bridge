@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "pro26-notification-card",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 391,
+  "completedAt": "2026-09-19T12:54:07.149Z",
+  "output": {
+    "id": "26:5962",
+    "name": "FedMes26/Settings/NotificationCard",
+    "existed": false,
+    "variants": 4
+  }
+}
