@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "final26-new-chat-sheet",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 665,
+  "completedAt": "2026-09-19T14:09:58.510Z",
+  "output": {
+    "id": "30:16013",
+    "name": "FedMes26/Chat/NewChatSheet",
+    "existed": false,
+    "variants": 2
+  }
+}
