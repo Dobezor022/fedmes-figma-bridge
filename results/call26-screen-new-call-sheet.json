@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "call26-screen-new-call-sheet",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 609,
+  "completedAt": "2026-09-19T13:38:41.849Z",
+  "output": {
+    "id": "27:13683",
+    "name": "FedMes Remote / FedMes 2026 / Android / New Call Sheet",
+    "instances": 4
+  }
+}
