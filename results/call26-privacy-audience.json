@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-privacy-audience",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 603,
+  "completedAt": "2026-09-19T13:38:14.424Z",
+  "output": {
+    "id": "27:13559",
+    "name": "FedMes26/Call/PrivacyAudience",
+    "existed": false,
+    "variants": 6
+  }
+}
