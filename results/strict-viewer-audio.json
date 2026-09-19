@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "strict-viewer-audio",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 319,
+  "completedAt": "2026-09-19T12:43:19.095Z",
+  "output": {
+    "id": "24:2336",
+    "name": "Viewer/Audio",
+    "existed": true,
+    "variants": 2
+  }
+}
