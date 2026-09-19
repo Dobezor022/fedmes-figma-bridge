@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "strict-badge-unread",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 309,
+  "completedAt": "2026-09-19T12:42:25.842Z",
+  "output": {
+    "id": "24:138",
+    "name": "Badge/Unread",
+    "existed": true,
+    "variants": 4
+  }
+}
