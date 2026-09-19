@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "jobId": "tg26-prim-light-bg",
+  "status": "completed",
+  "command": "upsert_color_token",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 210,
+  "completedAt": "2026-09-19T12:20:40.565Z",
+  "output": {
+    "id": "VariableID:18:14",
+    "name": "light/background"
+  }
+}
