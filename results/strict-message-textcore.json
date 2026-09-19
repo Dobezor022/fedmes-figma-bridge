@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "strict-message-textcore",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 328,
+  "completedAt": "2026-09-19T12:44:17.442Z",
+  "output": {
+    "id": "24:4504",
+    "name": "Message/TextCore",
+    "existed": true,
+    "variants": 20
+  }
+}
