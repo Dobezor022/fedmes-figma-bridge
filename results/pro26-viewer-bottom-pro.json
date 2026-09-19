@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "pro26-viewer-bottom-pro",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 443,
+  "completedAt": "2026-09-19T13:01:16.380Z",
+  "output": {
+    "id": "26:8147",
+    "name": "FedMes26/Media/ViewerBottomBarPro",
+    "existed": false,
+    "variants": 2
+  }
+}
