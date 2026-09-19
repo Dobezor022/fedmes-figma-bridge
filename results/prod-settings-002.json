@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "jobId": "prod-settings-002",
+  "status": "completed",
+  "command": "builder_action",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 15,
+  "completedAt": "2026-09-19T11:56:57.078Z",
+  "output": {
+    "action": "settings"
+  }
+}
