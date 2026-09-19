@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "phase2-selection-control",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 52,
+  "completedAt": "2026-09-19T12:03:08.207Z",
+  "output": {
+    "id": "24:2727",
+    "name": "Message/SelectionControl",
+    "existed": false,
+    "variants": 4
+  }
+}
