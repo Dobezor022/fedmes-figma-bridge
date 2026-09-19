@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "restore-layout-screen-82",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 134,
+  "completedAt": "2026-09-19T12:12:20.640Z",
+  "output": {
+    "id": "24:4788",
+    "name": "FedMes Remote / Android / Conversation / Light",
+    "instances": 6
+  }
+}
