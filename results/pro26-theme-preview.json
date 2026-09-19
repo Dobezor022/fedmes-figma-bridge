@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "pro26-theme-preview",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 432,
+  "completedAt": "2026-09-19T13:00:00.320Z",
+  "output": {
+    "id": "26:7850",
+    "name": "FedMes26/Settings/ThemePreview",
+    "existed": false,
+    "variants": 8
+  }
+}
