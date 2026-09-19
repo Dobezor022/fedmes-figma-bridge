@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "fm26-screen-huawei",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 233,
+  "completedAt": "2026-09-19T12:23:34.936Z",
+  "output": {
+    "id": "24:8057",
+    "name": "FedMes Remote / FedMes 2026 / Huawei Tablet / Conversation",
+    "instances": 9
+  }
+}
