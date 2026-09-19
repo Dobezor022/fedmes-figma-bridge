@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "phase5-windows-qr-error",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 94,
+  "completedAt": "2026-09-19T12:07:25.651Z",
+  "output": {
+    "id": "24:3913",
+    "name": "FedMes Remote / Windows / QR Sign In / Error",
+    "instances": 3
+  }
+}
