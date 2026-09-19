@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-raise-hand",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 627,
+  "completedAt": "2026-09-19T13:40:11.290Z",
+  "output": {
+    "id": "27:14435",
+    "name": "FedMes26/Call/RaiseHand",
+    "existed": false,
+    "variants": 3
+  }
+}
