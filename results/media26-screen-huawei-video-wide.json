@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "media26-screen-huawei-video-wide",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 557,
+  "completedAt": "2026-09-19T13:27:08.659Z",
+  "output": {
+    "id": "27:11827",
+    "name": "FedMes Remote / FedMes 2026 / Huawei Tablet / Video Player Widescreen",
+    "instances": 4
+  }
+}
