@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "media26-volume",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 515,
+  "completedAt": "2026-09-19T13:21:15.520Z",
+  "output": {
+    "id": "27:10568",
+    "name": "FedMes26/Media/VolumeControl",
+    "existed": false,
+    "variants": 6
+  }
+}
