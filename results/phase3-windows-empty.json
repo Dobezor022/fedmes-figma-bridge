@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "phase3-windows-empty",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 77,
+  "completedAt": "2026-09-19T12:06:04.431Z",
+  "output": {
+    "id": "24:3405",
+    "name": "FedMes Remote / Windows / Empty State",
+    "instances": 4
+  }
+}
