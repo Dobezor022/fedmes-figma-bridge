@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "call26-screen-permission",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 630,
+  "completedAt": "2026-09-19T13:40:18.433Z",
+  "output": {
+    "id": "27:14461",
+    "name": "FedMes Remote / FedMes 2026 / Android / Call Permissions",
+    "instances": 2
+  }
+}
