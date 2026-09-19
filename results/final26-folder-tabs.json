@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "final26-folder-tabs",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 664,
+  "completedAt": "2026-09-19T14:09:55.636Z",
+  "output": {
+    "id": "30:15994",
+    "name": "FedMes26/Chat/FolderTabs",
+    "existed": false,
+    "variants": 8
+  }
+}
