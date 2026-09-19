@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "phase7-full-page-state",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 174,
+  "completedAt": "2026-09-19T12:14:53.876Z",
+  "output": {
+    "id": "24:6868",
+    "name": "Feedback/FullPageState",
+    "existed": false,
+    "variants": 4
+  }
+}
