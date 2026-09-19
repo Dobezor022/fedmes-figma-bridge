@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "pro26-screen-performance",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 437,
+  "completedAt": "2026-09-19T13:00:21.136Z",
+  "output": {
+    "id": "26:7996",
+    "name": "FedMes Remote / FedMes 2026 / Android / Performance Modes",
+    "instances": 8
+  }
+}
