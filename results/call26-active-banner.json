@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-active-banner",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 626,
+  "completedAt": "2026-09-19T13:40:08.311Z",
+  "output": {
+    "id": "27:14425",
+    "name": "FedMes26/Call/ActiveBanner",
+    "existed": false,
+    "variants": 3
+  }
+}
