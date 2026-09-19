@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "restore-layout-screen-94",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 156,
+  "completedAt": "2026-09-19T12:13:10.921Z",
+  "output": {
+    "id": "24:5671",
+    "name": "FedMes Remote / Windows / QR Sign In / Error",
+    "instances": 3
+  }
+}
