@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "pro26-settings-card",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 369,
+  "completedAt": "2026-09-19T12:52:32.596Z",
+  "output": {
+    "id": "26:5377",
+    "name": "FedMes26/Settings/SectionCard",
+    "existed": false,
+    "variants": 4
+  }
+}
