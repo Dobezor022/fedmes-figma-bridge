@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "prod-message-file-002",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 9,
+  "completedAt": "2026-09-19T11:56:41.893Z",
+  "output": {
+    "id": "24:1081",
+    "name": "Message/File",
+    "existed": false,
+    "variants": 4
+  }
+}
