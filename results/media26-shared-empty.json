@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "media26-shared-empty",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 533,
+  "completedAt": "2026-09-19T13:23:22.198Z",
+  "output": {
+    "id": "27:11051",
+    "name": "FedMes26/SharedMedia/EmptyState",
+    "existed": false,
+    "variants": 8
+  }
+}
