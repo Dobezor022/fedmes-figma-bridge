@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "pro26-screen-windows-dialog",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 397,
+  "completedAt": "2026-09-19T12:54:25.246Z",
+  "output": {
+    "id": "26:6206",
+    "name": "FedMes Remote / FedMes 2026 / Windows / Context and Dialog",
+    "instances": 8
+  }
+}
