@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "fm26-search-tabs",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 297,
+  "completedAt": "2026-09-19T12:41:20.386Z",
+  "output": {
+    "id": "24:8962",
+    "name": "FedMes26/Search/Tabs",
+    "existed": false,
+    "variants": 8
+  }
+}
