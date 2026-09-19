@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "phase7-screen-huawei-offline",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 182,
+  "completedAt": "2026-09-19T12:15:10.622Z",
+  "output": {
+    "id": "24:7042",
+    "name": "FedMes Remote / Huawei / Tablet / Offline",
+    "instances": 4
+  }
+}
