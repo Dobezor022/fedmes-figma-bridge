@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "phase5-search-result-row",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 86,
+  "completedAt": "2026-09-19T12:07:08.399Z",
+  "output": {
+    "id": "24:3752",
+    "name": "Search/ResultRow",
+    "existed": false,
+    "variants": 4
+  }
+}
