@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "restore-layout-screen-63",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 142,
+  "completedAt": "2026-09-19T12:12:39.045Z",
+  "output": {
+    "id": "24:5158",
+    "name": "FedMes Remote / Android / Device Link Approval",
+    "instances": 5
+  }
+}
