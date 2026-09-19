@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "jobId": "organize-after-sanitize",
+  "status": "completed",
+  "command": "builder_action",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 283,
+  "completedAt": "2026-09-19T12:40:10.890Z",
+  "output": {
+    "designSystem": {
+      "moved": 7,
+      "sections": {
+        "Foundations": {
+          "count": 0,
+          "width": 2200,
+          "height": 520
+        },
+        "Icons": {
+          "count": 29,
+          "width": 2686,
+          "height": 520
+        },
+        "Primitives": {
+          "count": 25,
+          "width": 3604,
+          "height": 5324
+        },
+        "Navigation": {
+          "count": 10,
+          "width": 3668,
+          "height": 1318
+        },
+        "Chat List": {
+          "count": 11,
+          "width": 3630,
+          "height": 3168
+        },
+        "Messages": {
+          "count": 26,
+          "width": 3884,
+          "height": 5056
+        },
+        "Composer": {
+          "count": 8,
+          "width": 3400,
+          "height": 1580
+        },
+        "Attachments": {
+          "count": 6,
+          "width": 3400,
+          "height": 1236
+        },
+        "Media": {
+          "count": 16,
+          "width": 3800,
+          "height": 2542
+        },
+        "Settings": {
+          "count": 13,
+          "width": 3676,
+          "height": 1658
+        },
+        "Security": {
+          "count": 9,
+          "width": 3676,
+          "height": 2524
+        },
+        "Desktop": {
+          "count": 3,
+          "width": 4000,
+          "height": 1356
+        }
+      },
+      "totalHeight": 19706
+    },
+    "productScreens": {
+      "moved": 7,
+      "sections": {
+        "Android · Core": {
+          "count": 12,
+          "width": 2160,
+          "height": 3072
+        },
+        "Android · Settings": {
+          "count": 4,
+          "width": 2160,
+          "height": 1084
+        },
+        "Android · Edge & Auth": {
+          "count": 5,
+          "width": 2160,
+          "height": 2078
+        },
+        "Android · Media & Flows": {
+          "count": 13,
+          "width": 2160,
+          "height": 4066
+        },
+        "Huawei Tablet": {
+          "count": 4,
+          "width": 2720,
+          "height": 1990
+        },
+        "Windows Desktop": {
+          "count": 14,
+          "width": 3200,
+          "height": 7220
+        },
+        "Component Atlas": {
+          "count": 6,
+          "width": 5120,
+          "height": 6040
+        },
+        "Legacy Screens": {
+          "count": 7,
+          "width": 2440,
+          "height": 3028
+        }
+      },
+      "totalHeight": 21838,
+      "legacyHidden": true
+    }
+  }
+}
