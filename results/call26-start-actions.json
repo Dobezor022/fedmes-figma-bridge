@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-start-actions",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 602,
+  "completedAt": "2026-09-19T13:38:10.268Z",
+  "output": {
+    "id": "27:13534",
+    "name": "FedMes26/Call/StartActions",
+    "existed": false,
+    "variants": 2
+  }
+}
