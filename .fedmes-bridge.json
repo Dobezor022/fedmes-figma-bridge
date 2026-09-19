@@ -1,0 +1,21 @@
+{
+  "protocol": "fedmes-figma-bridge",
+  "version": 1,
+  "pluginVersion": "1.0.0",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "queue": "queue/*.json",
+  "results": "results/<jobId>.json",
+  "generatedAt": "2026-09-19T11:41:06.874Z",
+  "allowedCommands": [
+    "ping",
+    "inventory",
+    "builder_action",
+    "upsert_color_token",
+    "upsert_float_token",
+    "upsert_component",
+    "upsert_component_set",
+    "compose_screen",
+    "set_component_description"
+  ]
+}
