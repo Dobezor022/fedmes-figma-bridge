@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-recording",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 628,
+  "completedAt": "2026-09-19T13:40:14.063Z",
+  "output": {
+    "id": "27:14445",
+    "name": "FedMes26/Call/RecordingIndicator",
+    "existed": false,
+    "variants": 3
+  }
+}
