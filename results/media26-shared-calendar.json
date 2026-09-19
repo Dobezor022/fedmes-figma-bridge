@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "media26-shared-calendar",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 500,
+  "completedAt": "2026-09-19T13:20:31.469Z",
+  "output": {
+    "id": "27:10091",
+    "name": "FedMes26/SharedMedia/Calendar",
+    "existed": false,
+    "variants": 2
+  }
+}
