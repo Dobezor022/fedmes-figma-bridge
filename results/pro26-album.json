@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "pro26-album",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 352,
+  "completedAt": "2026-09-19T12:51:08.375Z",
+  "output": {
+    "id": "26:4665",
+    "name": "FedMes26/Media/Album",
+    "existed": false,
+    "variants": 6
+  }
+}
