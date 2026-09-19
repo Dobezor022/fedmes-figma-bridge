@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "strict-chatrow-old",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 310,
+  "completedAt": "2026-09-19T12:43:04.609Z",
+  "output": {
+    "id": "24:619",
+    "name": "ChatRow",
+    "existed": true,
+    "variants": 12
+  }
+}
