@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "media26-screen-photo-navzones",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 527,
+  "completedAt": "2026-09-19T13:22:24.741Z",
+  "output": {
+    "id": "27:10879",
+    "name": "FedMes Remote / FedMes 2026 / Android / Photo Tap Navigation",
+    "instances": 6
+  }
+}
