@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "prod-message-reactionbar-001",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 23,
+  "completedAt": "2026-09-19T11:58:04.230Z",
+  "output": {
+    "id": "24:2282",
+    "name": "Message/ReactionBar",
+    "existed": false,
+    "variants": 2
+  }
+}
