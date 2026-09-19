@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "phase2-group-member",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 57,
+  "completedAt": "2026-09-19T12:03:20.780Z",
+  "output": {
+    "id": "24:2854",
+    "name": "Group/MemberRow",
+    "existed": false,
+    "variants": 4
+  }
+}
