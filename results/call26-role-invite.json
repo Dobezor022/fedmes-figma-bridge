@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "call26-role-invite",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 629,
+  "completedAt": "2026-09-19T13:40:16.437Z",
+  "output": {
+    "id": "27:14460",
+    "name": "FedMes26/Call/RoleInvite",
+    "existed": false,
+    "variants": 2
+  }
+}
