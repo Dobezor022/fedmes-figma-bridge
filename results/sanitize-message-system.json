@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "sanitize-message-system",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 266,
+  "completedAt": "2026-09-19T12:30:43.011Z",
+  "output": {
+    "id": "24:1280",
+    "name": "Message/System",
+    "existed": true,
+    "variants": 2
+  }
+}
