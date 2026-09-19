@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "pro26-chatrow-compact",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 402,
+  "completedAt": "2026-09-19T12:57:22.834Z",
+  "output": {
+    "id": "26:6543",
+    "name": "FedMes26/ChatRowCompact",
+    "existed": false,
+    "variants": 36
+  }
+}
