@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "media26-photo-zoom",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 479,
+  "completedAt": "2026-09-19T13:09:07.071Z",
+  "output": {
+    "id": "26:9476",
+    "name": "FedMes26/Media/PhotoZoom",
+    "existed": false,
+    "variants": 12
+  }
+}
