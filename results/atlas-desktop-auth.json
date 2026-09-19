@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "atlas-desktop-auth",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 163,
+  "completedAt": "2026-09-19T12:13:30.696Z",
+  "output": {
+    "id": "24:6531",
+    "name": "FedMes Remote / Component Atlas / Desktop Auth and Feedback",
+    "instances": 20
+  }
+}
