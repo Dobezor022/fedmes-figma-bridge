@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "jobId": "tg26-light-border",
+  "status": "completed",
+  "command": "upsert_color_token",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 200,
+  "completedAt": "2026-09-19T12:20:23.045Z",
+  "output": {
+    "id": "VariableID:18:41",
+    "name": "color/border/default"
+  }
+}
