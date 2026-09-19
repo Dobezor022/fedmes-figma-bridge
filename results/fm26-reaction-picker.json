@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "fm26-reaction-picker",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 302,
+  "completedAt": "2026-09-19T12:42:10.632Z",
+  "output": {
+    "id": "25:9061",
+    "name": "FedMes26/Message/ReactionPicker",
+    "existed": false,
+    "variants": 2
+  }
+}
