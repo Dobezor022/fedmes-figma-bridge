@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "phase2-screen-conversation-menu",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 58,
+  "completedAt": "2026-09-19T12:03:25.921Z",
+  "output": {
+    "id": "24:2855",
+    "name": "FedMes Remote / Android / Conversation / Context Menu",
+    "instances": 7
+  }
+}
