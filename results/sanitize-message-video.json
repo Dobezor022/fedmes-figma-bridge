@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "sanitize-message-video",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 276,
+  "completedAt": "2026-09-19T12:39:13.836Z",
+  "output": {
+    "id": "24:1032",
+    "name": "Message/Video",
+    "existed": true,
+    "variants": 4
+  }
+}
