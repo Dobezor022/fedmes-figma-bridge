@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "jobId": "spec-shared-grid",
+  "status": "completed",
+  "command": "set_component_description",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 537,
+  "completedAt": "2026-09-19T13:23:30.261Z",
+  "output": {
+    "id": "27:9958",
+    "name": "FedMes26/SharedMedia/Grid"
+  }
+}
