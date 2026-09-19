@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "atlas-composer",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 160,
+  "completedAt": "2026-09-19T12:13:21.232Z",
+  "output": {
+    "id": "24:6044",
+    "name": "FedMes Remote / Component Atlas / Composer and Attachments",
+    "instances": 16
+  }
+}
