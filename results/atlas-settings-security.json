@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "atlas-settings-security",
+  "status": "completed",
+  "command": "compose_screen",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 162,
+  "completedAt": "2026-09-19T12:13:28.120Z",
+  "output": {
+    "id": "24:6326",
+    "name": "FedMes Remote / Component Atlas / Settings and Security",
+    "instances": 24
+  }
+}
