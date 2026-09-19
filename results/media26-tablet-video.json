@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "media26-tablet-video",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 554,
+  "completedAt": "2026-09-19T13:27:03.005Z",
+  "output": {
+    "id": "27:11753",
+    "name": "FedMes26/Tablet/VideoPlayerPro",
+    "existed": false,
+    "variants": 6
+  }
+}
