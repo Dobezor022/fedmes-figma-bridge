@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "media26-viewer-actions",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 465,
+  "completedAt": "2026-09-19T13:07:32.411Z",
+  "output": {
+    "id": "26:9152",
+    "name": "FedMes26/Media/ViewerActions",
+    "existed": false,
+    "variants": 2
+  }
+}
