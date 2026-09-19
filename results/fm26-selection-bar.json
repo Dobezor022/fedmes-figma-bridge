@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "jobId": "fm26-selection-bar",
+  "status": "completed",
+  "command": "upsert_component_set",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 300,
+  "completedAt": "2026-09-19T12:42:05.544Z",
+  "output": {
+    "id": "24:9035",
+    "name": "FedMes26/Message/SelectionBar",
+    "existed": false,
+    "variants": 2
+  }
+}
