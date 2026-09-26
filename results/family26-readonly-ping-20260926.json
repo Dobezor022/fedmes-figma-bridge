@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "jobId": "family26-readonly-ping-20260926",
+  "status": "completed",
+  "command": "ping",
+  "clientId": "fedmes-mu8avycy-xgfxtpag",
+  "fileKey": null,
+  "relay": "google-sheet",
+  "sheetSeq": 684,
+  "completedAt": "2026-09-26T16:50:53.924Z",
+  "output": {
+    "pong": true,
+    "clientId": "fedmes-mu8avycy-xgfxtpag",
+    "fileKey": null
+  }
+}
