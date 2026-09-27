@@ -1,12 +1,12 @@
 {
   "protocol": "fedmes-figma-bridge",
   "version": 1,
-  "pluginVersion": "1.6.0",
+  "pluginVersion": "1.9.0",
   "clientId": "fedmes-mu8avycy-xgfxtpag",
   "fileKey": null,
   "queue": "queue/*.json",
   "results": "results/<jobId>.json",
-  "generatedAt": "2026-09-19T13:31:40.870Z",
+  "generatedAt": "2026-09-27T12:46:33.104Z",
   "allowedCommands": [
     "ping",
     "inventory",
